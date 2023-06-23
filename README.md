@@ -24,7 +24,7 @@ SOFTWARE.
 # The Script
 
 ## Google Ads Low Quality Score Keywords
-**This script generate a report of keywords with low quality scores, pause them as an optional and send a report via email.**
+**This script generates a report specifically for keywords with low Quality Scores in Google Ads campaigns. It offers the option to automatically pause those low Quality Score keywords. Additionally, it sends the generated report via email as an attachment. The report includes information about the campaign name, ad group name, keyword, Quality Score, and keyword match type for each keyword identified as having a low Quality Score.**
 
 ### Prerequisites
 **Before using this script, you need to set up the following:**
