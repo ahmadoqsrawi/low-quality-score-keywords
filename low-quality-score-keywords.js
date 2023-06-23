@@ -1,3 +1,10 @@
+/*************************************************
+* Google Ads Budget Report
+* @version: 1.0
+* @author: Ahmad Ismail
+***************************************************
+*/
+
 function main() {
   
   // Define email address, subject, and body for the email
