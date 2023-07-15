@@ -1,5 +1,5 @@
 /*************************************************
-* Google Ads Budget Report
+* Google Ads Low Quality Score Keywords Report
 * @version: 1.0
 * @author: Ahmad Ismail
 ***************************************************
